@@ -42,3 +42,9 @@ add和commit两个步骤可以合并在一起
 将远程仓库关联到已有的本地仓库
 
 `git remote add origin git@github.com:username/repository_name.git`
+
+### 8， alias
+
+为命令添加别名以便于节省时间
+
+`git config --global alias.别名 '命令'`
