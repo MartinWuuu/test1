@@ -36,3 +36,9 @@ add和commit两个步骤可以合并在一起
 将远程代码更新到本地
 
 `git pull origin master`
+
+### 7，remote
+
+将远程仓库关联到已有的本地仓库
+
+`git remote add origin git@github.com:username/repository_name.git`
